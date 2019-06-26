@@ -1,0 +1,17 @@
+Functional requirements:-
+
+1. Data processing
+2. Technical details
+3. Data manipulation
+4. Calculations
+5. Security
+
+
+Non-functional requirements:-
+
+1. Accessibility
+2. Documentation
+3. Efficiency
+4. Maintainability
+5. Privacy
+6. Reliability

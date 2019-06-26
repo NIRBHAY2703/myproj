@@ -1,0 +1,38 @@
+Problem definition :
+
+1.The requirement  is to build Information Management 
+System in web for a multinational company "Fabrikam".
+
+2.The company has 24 Offices all over world.
+
+3.The company has to host internet public web site for 
+the customers to know about products.
+
+4.The company require to build and host intranet for all
+employees to access Feedback Management System and leave
+Management related information.
+
+5.The comapny has Amazon Webservices Cloud Subscription
+to use it as a Service(I-a-a-S).
+
+6.It is required to build and host this Information System 
+in public cloud Google Cloud Platform or AWS.
+
+7.It is the study of complementary networks of hardware 
+and software that people and organizations use to collect, 
+filter, process, create, and distribute data.
+
+8.This systems shoul be combinations of hardware, software, and 
+telecommunications networks that people build and use to collect, 
+create, and distribute useful data, typically in organizational 
+settings.
+
+9.There are interrelated components working together to collect, 
+process, store, and disseminate information to support decision
+making, coordination, control, analysis, and viualization in an 
+organization.”
+
+10.This systems are made up of different components that work together 
+to provide value to an organization.
+
+
